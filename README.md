@@ -1,4 +1,4 @@
-# Whiplash: A Closed Loop Gradient Descent Algorithm applied to Rosenbrock's function
+# Whiplash Gradient Descent: A Closed Loop Gradient Descent Algorithm applied to Rosenbrock's function
 This file contains a live MATLAB project and a Simulink simulation by:
 Mr. Subhransu Sekhar Bhattacharjee, U7143478, ANU, 
 under the supervision of Prof. Dr. Ian R. Petersen FAA, College of Engineering and Computer Science, ANU.
