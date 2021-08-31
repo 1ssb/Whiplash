@@ -1,4 +1,5 @@
-# Whiplash Gradient Descent: A Closed Loop Gradient Descent Algorithm applied to Rosenbrock's function. Please find the paper here: https://arxiv.org/abs/2108.12883.
+# Whiplash Gradient Descent: A Closed Loop Gradient Descent Algorithm applied to Rosenbrock's function. 
+Please find the paper here: https://arxiv.org/abs/2108.12883.
 
 We introduce a novel adaptive damping technique for an inertial gradient system which finds application as a gradient descent algorithm for unconstrained optimisation. In an example using the non-convex Rosenbrock's function, we show an improvement on existing momentum-based gradient optimisation methods. Also using Lyapunov stability analysis, we demonstrate the performance of the continuous-time version of the algorithm. Using numerical simulations, we consider the performance of its discrete-time counterpart obtained by using the symplectic Euler method of discretisation.
 
