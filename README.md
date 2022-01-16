@@ -1,6 +1,7 @@
 # Whiplash Gradient Descent 
 Please find the paper here: https://arxiv.org/abs/2108.12883.
 DOI: 10.1109/ANZCC53563.2021.9628258
+
 This file contains live MATLAB projects and Simulink simulations by:
 Mr. Subhransu Sekhar Bhattacharjee, U7143478, ANU, 
 under the supervision of Prof. Dr. Ian R. Petersen FAA, College of Engineering and Computer Science, ANU.
