@@ -1,4 +1,4 @@
-# Whiplash Gradient Descent and the Analysis of CLosed Loop Gradient Descent
+# Whiplash Gradient Descent and the Analysis of Closed Loop Gradient Descent
 Please find the paper here: https://arxiv.org/abs/2108.12883.
 DOI: 10.1109/ANZCC53563.2021.9628258
 
