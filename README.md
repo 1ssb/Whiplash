@@ -2,8 +2,7 @@
 
 # Final Paper
 Journal Published: https://onlinelibrary.wiley.com/doi/epdf/10.1002/asjc.3153
-Please find the detailed paper here: https://arxiv.org/abs/2108.12883.
-DOI: 10.1109/ANZCC53563.2021.9628258
+Please find the detailed paper here: [https://arxiv.org/abs/2108.12883](https://arxiv.org/abs/2203.02140).
 
 # How to cite
 Bhattacharjee, S. S. and Petersen, I. R., Analysis of the Whiplash gradient descent dynamics, Asian J. Control (2023), 1–14, DOI 10.1002/asjc.3153.
